@@ -1,2 +1,2 @@
-# alexandrafox.github.io
+# alexandrafox
 A website for myself
