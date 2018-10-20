@@ -4,7 +4,7 @@ layout: home
 
 # Hello
 
-- world
-- whats
-- up?
+* one
+* two
+* three
 
