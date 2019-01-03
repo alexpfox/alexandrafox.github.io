@@ -1,6 +1,9 @@
 ---
 layout: page
-title: About Alex...
+title: About Alex
 ---
 
-Motto: quid possit errare? What could possibly go wrong?
+Seeking: a position as a data scientist or machine learning engineer within a team of quick-moving and adaptable coworkers with a passion for collaboration.
+
+Motto: quid possit errare?
+
