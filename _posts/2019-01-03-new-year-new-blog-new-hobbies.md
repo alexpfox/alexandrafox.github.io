@@ -16,12 +16,12 @@ In this vein, I've also always wanted to design my own clothes. The first step t
 
 ![A rear view of the apron, featuring a ginkgo leaf motif in shades of green](/assets/images/2019/1/apron_pocket_detail.jpg)
 
-![A reversed view of the apron, featuring a contrasting chartreuse yellow green fabric](/assets/images/2019/1/apron_reverse.tiff)
+![A reversed view of the apron, featuring a contrasting chartreuse yellow green fabric](/assets/images/2019/1/apron_reverse.jpg)
 
 
 I used a pattern purchased off of Amazon [here](https://www.amazon.com/gp/product/B075PKXXBK/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) for my first project. In retrospect this was biting off more than I should have tried for great results, but completion was well within the realm of possibility for a beginner with access to Google and a partner with sewing experience.
 
-![apron materials laid out](/assets/images/2019/1/apron__materials.jpg)
+![apron materials laid out](/assets/images/2019/1/apron_materials.jpg)
 
 The pattern was easy to follow. This step was probably the most complicated, where I needed to sew my pieces together inside out then pull them out, without accidentally flipping anything: 
 
