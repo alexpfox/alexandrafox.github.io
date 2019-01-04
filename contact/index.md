@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ContactS
+title: Contact
 ---
 
 Email: alex@alexandrafox.me
