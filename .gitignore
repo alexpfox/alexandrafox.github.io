@@ -1,1 +1,4 @@
 _site
+.DS_Store
+_drafts
+_data/website.sublime-workspace
