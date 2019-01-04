@@ -6,7 +6,7 @@ categories:
 	- making
 ---
 
-With new years come new resolutions, for most. I'm not in the habit of making resolutions around this date generally, (too easy to fall victim to the phenomenon in which [telling people your goals makes you less likely to accomplish them](http://www.psych.nyu.edu/gollwitzer/09_Gollwitzer_Sheeran_Seifert_Michalski_When_Intentions_.pdf)) but one goal I've had for a while is to start some kind of record for myself: a blog, a website, better notes, better organized images documenting my adventures, to-do lists, that kind of deal. This is hopefully the first post of many.
+With new years come new resolutions, for most. I'm not in the habit of making resolutions around this date generally (too easy to fall victim to the phenomenon in which [telling people your goals makes you less likely to accomplish them](http://www.psych.nyu.edu/gollwitzer/09_Gollwitzer_Sheeran_Seifert_Michalski_When_Intentions_.pdf)) but one goal I've had for a while is to start some kind of record for myself: a blog, a website, better notes, better organized images documenting my adventures, to-do lists, that kind of deal. This is hopefully the first post of many.
 
 In this vein, I've also always wanted to design my own clothes. The first step towards learning to do that looks like learning to sew, so here's my first sewing project, completed in November 2018:
 
