@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Me
+title: You can get in touch
 ---
 
 (alex@alexandrafox.me)[alex@alexandrafox.me]
