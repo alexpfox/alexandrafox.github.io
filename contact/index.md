@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Contact
+title: Contact Me
 ---
 
-Email: alex@alexandrafox.me
+(alex@alexandrafox.me)[alex@alexandrafox.me]
 
-LinkedIn: https://www.linkedin.com/in/alexandra-fox-06bb1486/
+(linkedin.com/alexandra-fox)[https://www.linkedin.com/in/alexandra-fox-06bb1486/]
 
-GitHub: https://github.com/alexpfox
+[github.com/alexpfox)[https://github.com/alexpfox]
