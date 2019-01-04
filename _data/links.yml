@@ -1,3 +1,6 @@
+- url: /contact
+  tite: Contact
+
 - url: /bio
   title: Bio
 
@@ -6,6 +9,3 @@
 
 - url: /resume
   title: Resume
-
-- url: /contact
-  tite: Contact
