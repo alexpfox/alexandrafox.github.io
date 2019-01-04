@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Alex
+title: About Me
 ---
 
 Seeking: a position as a data scientist or machine learning engineer within a team passionate about collaborating on creative solutions to difficult problems. Interesting opportunities and meaningful impact. Contributing to our understanding of science as it applies to machine learning and artificial intelligence is my dream.
@@ -32,7 +32,7 @@ I ride:
 
 I make:
 
-- Fiber art
+- Fiber and textile art
 - Leather goods
-- Questionable (to others) choices that always turn out well
-
+- Amateur sculptures
+- Ballsy calculated decisions

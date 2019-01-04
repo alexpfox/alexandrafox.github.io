@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New year, new blog, new hobbies'
+title: New year, new blog, new hobbies
 categories: 
 	- sewing
 	- making
@@ -32,7 +32,7 @@ I think I probably didn't cut out my pieces precisely enough and ended up with s
 I could have also used the yellow thread I picked up to better hide or bring attention to seams, but changing thread on my partner's unfamiliar Pfaff felt intimidating so I didn't make the switch while working on differently colored pieces. I'm not disappointed that I "hid" my poor first attempt at seams - this project definitely turned out better than anticipated because of happy accidents obscuring simple beginner mistakes like that.
 
 
-Here's an example of where inaccuracy in seam length due to poor cutting technique can bite you. The seam was pinned as I sewed it, so inconsistencies in length were exacerbated over the length as I removed pins and the fabric bunched on top while the foot of the machine remained consistent in how much fabric it "ate" with each step.
+Here's an example of where inaccuracy in seam length due to poor cutting technique can bite you. The seam was pinned as I sewed it, so inconsistencies in the seam edge were exacerbated over the length as I removed pins and the fabric bunched on top while the foot of the machine remained consistent in how much fabric it "ate" with each step. This resulted in some weird gathers at the waist that I wish didn't exist, but I've definitely learned from.
 
 ![minor issues](/assets/images/2019/1/apron_detail_issues.jpg)
 
