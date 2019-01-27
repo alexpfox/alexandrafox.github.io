@@ -7,7 +7,7 @@ Seeking: a position as a data scientist or machine learning engineer within a te
 
 Motto: quid possit errare?
 
-I have worked as a:
+I have been paid for work as a:
 
 - Polo player
 - Dairy farm hand
@@ -16,6 +16,7 @@ I have worked as a:
 - Baker
 - Barista
 - IT/support technician
+- Jack of all trades at small startups
 - Backend website developer
 
 I play:
@@ -34,5 +35,5 @@ I make:
 
 - Fiber and textile art
 - Leather goods
-- Amateur sculptures
-- Ballsy calculated decisions
+- Sculptures
+- Ballsy, calculated decisions
