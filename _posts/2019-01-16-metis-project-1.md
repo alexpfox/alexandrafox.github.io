@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Metis Project 1'
+title: 'Metis Project 1 - MTA Turnstile Analysis'
 categories: [project]
 tags: [metis, statistics, data science]
 ---
