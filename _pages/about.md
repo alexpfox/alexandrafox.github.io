@@ -8,18 +8,18 @@ Passionate about: collaborating on creative solutions to difficult problems. Int
 
 Motto: quid possit errare?
 
-**Paid:**
+Paid:
 
 * Motorcycle Stunt Rider
 * Polo Player
 * Dairy Farm Hand
 * IT/Support
-* Software Developer
+* Software Development
 * Thunderdome 'Cage' Fighter
 * Baker
 
 
-**Made:**
+Made:
 
 * Computer-generated art
 * Fiber and textile art
@@ -28,7 +28,7 @@ Motto: quid possit errare?
 * Paintings
 
 
-**Played:**
+Played:
 
 * Guitar
 * Polo (the kind with horses)
