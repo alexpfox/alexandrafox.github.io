@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Leather Boxes'
+title: Leather Boxes
 date: 2019-03-22 00:00:00
 featured_image: '/assets/images/2019/3/leather_boxes/fin.jpg'
 ---

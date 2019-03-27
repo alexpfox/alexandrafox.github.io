@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robot Frost
-subtitle: Epigram Generator
+subtitle: Epigram Generation Using NLP
 date: 2019-03-16 00:00:00
 featured_image: '/assets/images/2019/3/default_model.png'
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MTA Turnstiles
+subtitle: Exploratory Data Analysis
 date: 2019-01-16 00:00:00
 featured_image: '/assets/images/2019/1/nyc_subway.jpg'
 ---

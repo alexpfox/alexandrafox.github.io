@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Predicting Hit Singles
+subtitle: Trends in Popular Music
 date: 2019-01-26 00:00:00
 featured_image: '/assets/images/2019/1/hit_singles.jpg'
 ---

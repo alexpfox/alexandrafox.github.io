@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Coffee Grader Analysis
+subtitle: Evaluating Grading Processes
 date: 2019-03-02 00:00:00
 featured_image: "/assets/images/2019/3/tree.jpg"
 ---
