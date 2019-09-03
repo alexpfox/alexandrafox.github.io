@@ -51,3 +51,23 @@ Using it proficiently will take a few weeks of adaptation as the [ortholinear](h
 
 
 I haven't yet added integrated LEDs for super-futuristic underlighting or keylights, but I can go back in and add those later if I decide I need my work station to have that Bladerunner aesthetic. Or just build a new keyboard, I have the sinking feeling that I'm going to be futzing with this setup for a while.
+
+Here are a few other images from various stages of the build: 
+
+<p align="center">
+<img src="/assets/images/2019/9/iris/IMG_9714.jpeg">
+</p>
+
+<p align="center">
+<img src="/assets/images/2019/9/iris/IMG_9735.jpeg">
+</p>
+
+<p align="center">
+<img src="/assets/images/2019/9/iris/IMG_9756.jpeg">
+</p>
+
+<p align="center">
+<img src="/assets/images/2019/9/iris/IMG_9769.jpeg">
+</p>
+
+Note: this post was written in April 2019 and finalized/posted in September 2019. This year was busy.
